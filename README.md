@@ -1,4 +1,4 @@
-# Spring-Security_Login_Mysql
+# Spring_Security_Login_Mysql
 Database authentication, using Spring-JDBC and MySQL
 1.paste fol owing in pom.xml to embed tomcat
 _______________________________________________
@@ -12,6 +12,7 @@ _______________________________________________
 				</configuration>
 			</plugin>
 ____________________________________________
+
 2. to run local tomcat
 mvn clean install -DskipTests=true      
 mvn tomcat7:run-war-only 
