@@ -27,7 +27,8 @@ mvn tomcat7:run-war-only
 
 http://localhost:8080/login
 
-4. login with 'ericli','123456'
+4. login with 'ericli','123456' to be admin
+   login with 'alex','123456' as normal user
 
 checked!
 
